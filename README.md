@@ -1,7 +1,6 @@
 # Employee-Performance-Analysis
 "An HR Data Analysis project using Excel to analyze employee performance scores, salary distributions, and departmental trends."
 # Employee Performance & Salary Insights
-
 ## Project Overview
 This analysis focuses on Human Resources data to evaluate how performance scores correlate with salaries and experience across different departments (IT, HR, Finance, Marketing).
 
